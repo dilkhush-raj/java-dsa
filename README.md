@@ -1,0 +1,33 @@
+# Java & DSA - Alpha Apna College
+
+## Topics in DSA with java 
+- [ ] Flowcharts
+- [ ] Variables & Data Types in Java
+- [ ] Operators
+- [ ] if-else Statements
+- [ ] Flow Control (Loops)
+- [ ] Patterns
+- [ ] Functions & Methods
+- [ ] [Arrays](./arrays)
+- [ ] Sorting Algorithm
+- [ ] 2D Arrays
+- [ ] Strings
+- [ ] Bit Manipulation
+- [ ] OPPs
+- [ ] Recursion
+- [ ] Divide & Conquer
+- [ ] Backtracking
+- [ ] Time & Space Complexity
+- [ ] Array Lists
+- [ ] Linked Lists
+- [ ] Stacks
+- [ ] Queues
+- [ ] Greedy Algorithms
+- [ ] Binary Trees
+- [ ] Binary Search Trees
+- [ ] Heaps/Priority Queues
+- [ ] Hashing
+- [ ] Tries
+- [ ] Graphs
+- [ ] Dynamic Programming
+- [ ] Segment Trees
