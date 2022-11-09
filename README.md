@@ -1,6 +1,6 @@
-# Java & DSA - Alpha Apna College
+# Java & DSA
 
-## Topics in Java & DSA
+## Topics in Java
 1. [x] [Flowcharts](./flowcharts)
 2. [x] [Variables & Data Types in Java](./variables/)
 3. [x] [Operators](./operators)
@@ -9,8 +9,8 @@
 6. [x] [Patterns](./patterns)
 7. [x] [Functions & Methods](./methods)
 
-###### Till here, only pdfs of question and solution, no code no notes.
----
+## Topics in DSA
+
 8. [ ] [Arrays](./arrays)
 9. [ ] Sorting Algorithm
 10. [ ] 2D Arrays
