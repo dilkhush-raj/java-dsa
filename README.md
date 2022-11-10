@@ -11,8 +11,8 @@
 
 ## Topics in DSA
 
-8. [ ] [Arrays](./arrays)
-9. [ ] Sorting Algorithm
+8. [x] [Arrays](./arrays)
+9. [ ] [Sorting Algorithm](./sorting)
 10. [ ] 2D Arrays
 11. [ ] Strings
 12. [ ] Bit Manipulation
