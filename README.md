@@ -12,9 +12,9 @@
 ## Topics in DSA
 
 8. [x] [Arrays](./arrays)
-9. [ ] [Sorting Algorithm](./sorting)
-10. [ ] 2D Arrays
-11. [ ] Strings
+9. [x] [Sorting Algorithm](./sorting)
+10. [x] [2D Arrays](./2D-array)
+11. [x] [Strings](./strings)
 12. [ ] Bit Manipulation
 13. [ ] OPPs
 14. [ ] Recursion
